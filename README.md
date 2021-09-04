@@ -1,14 +1,14 @@
 # testbhinneka
 
 # kerangka-cypress
-## intall npm
-npm install
+## intall pnpm
+pnpm install
 
 ## Run Test
-npm run test
+pnpm run test
 
 ## or
-npm test
+pnpm test
 
 ## or
-npm record
+pnpm record
