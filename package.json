@@ -1,0 +1,25 @@
+{
+  "name": "content-e2e-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy-open": "cypress open",
+    "test": "cypress run",
+    "record": "cypress run --record "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rentoz-dev/bhinneka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rentoz-dev/bhinneka/issues"
+  },
+  "homepage": "https://github.com/rentoz-dev/bhinneka#readme",
+  "dependencies": {
+    "cypress": "^8.3.1"
+  }
+}
